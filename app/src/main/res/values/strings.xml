@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Resistor Calculator</string>
+    <string name="Calcular">Calcular</string>
+    <string name="Borrar">Borrar</string>
+    <string name="x1000000">x1000000</string>
+    <string name="x100000">x100000</string>
+    <string name="x10000">x10000</string>
+    <string name="x1000">x1000</string>
+    <string name="x100">x100</string>
+    <string name="x10">x10</string>
+    <string name="x1">x1</string>
+    <string name="Tolerancia">Tolerancia</string>
+    <string name="Multiplicador">Multiplicador</string>
+    <string name="c0">0</string>
+    <string name="c9">9</string>
+    <string name="c8">8</string>
+    <string name="c7">7</string>
+    <string name="c6">6</string>
+    <string name="c5">5</string>
+    <string name="c4">4</string>
+    <string name="t10">+/- 10%</string>
+    <string name="c3">3</string>
+    <string name="t5">+/- 5%</string>
+    <string name="c2">2</string>
+    <string name="t2">+/- 2%</string>
+    <string name="c1">1</string>
+    <string name="t1">+/- 1%</string>
+</resources>
